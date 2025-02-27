@@ -1,3 +1,6 @@
+## Live Demo
+Check out the live version of this project here: [Live Demo](https://akshaygir15.github.io/frontendmentor-task1/)
+
 # Frontend Mentor - 3-column preview card component
 
 ![Design preview for the 3-column preview card component coding challenge](./design/desktop-preview.jpg)
